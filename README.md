@@ -13,7 +13,7 @@ Instructions
 
 3. In directory X, open a terminal.
 
-4. Execute: "git clone https://github.com/Audioniek/buildsystem ." Note
+4. Execute: "git clone https://github.com/andalasopen/buildsystem.git X." Note
    the period at the end.
 
 5. The remaining repositories that are needed will be cloned automatically
